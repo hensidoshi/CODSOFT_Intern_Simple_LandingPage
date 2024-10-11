@@ -30,6 +30,7 @@ I intentionally kept this project at the "beginner's level," making it a breeze 
 •	Internship at CODSOFT
 
 Feel free to clone, fork, or explore the code. Your feedback and suggestions are highly appreciated! Let's continue the coding adventure together. 💻🌐
+
 #CODSOFTInternship #WebDevelopment #HTML #CSS #TechEnthusiast
 
 
