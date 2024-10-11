@@ -1,1 +1,1 @@
-# CODSOFT_Intern_Simple_LandingPage
+# Simple_LandingPage
